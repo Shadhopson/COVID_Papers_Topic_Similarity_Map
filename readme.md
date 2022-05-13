@@ -1,4 +1,7 @@
 # Team 094 - DnD: Data and Depictions - README
+![image](https://user-images.githubusercontent.com/4748918/168347870-be5d95e3-d020-4de6-b1cf-c3c6db612af4.png)
+![image](https://user-images.githubusercontent.com/4748918/168348001-9d5a9d3b-fc44-4843-9b12-b18872dac128.png)
+![image](https://user-images.githubusercontent.com/4748918/168348183-6487457e-bf91-40c8-9bfd-0eccd6d40684.png)
 
 ## Note
 It's recommended to view this file as markdown rather than text.
